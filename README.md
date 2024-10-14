@@ -1,5 +1,5 @@
- EXPLORING-NEURAL-SYNCHRONY-IN-SYNTACTIC-PROCESSING-OF-MINIMAL-PHRASE Project Overview
-This project explores neural synchrony in syntactic processing, particularly focusing on how the brain processes minimal phrases through different modalities (audio and visual) and rhythmic patterns (isochronous and anisochronous). The study is conducted using Electroencephalography (EEG) data, combined with machine learning techniques to analyze brain responses.
+
+This research explores neural synchrony in syntactic processing, particularly focusing on how the brain processes minimal phrases through different modalities (audio and visual) and rhythmic patterns (isochronous and anisochronous). The study is conducted using Electroencephalography (EEG) data, combined with machine learning techniques to analyze brain responses.
 
 Research Goals
 The study aims to:
